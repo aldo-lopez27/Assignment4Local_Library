@@ -1,0 +1,50 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+
+
+    background-image: url("../images/books.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+
+
+h1 {
+    color: #ffffff;
+}
+h2{
+    color:#ffffff
+}
+
+li{
+    color:#ffffff
+}
+
+p {
+    color: #ffffff;
+}
+
+a{
+    color: #ffffff;
+}
+
+ul{
+    color: #ffffff;
+}
+hr{
+    color: #ffffff;
+}
+dl{
+    color: #ffffff;
+}
+
